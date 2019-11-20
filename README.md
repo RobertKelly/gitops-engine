@@ -1,5 +1,7 @@
 # GitOps Engine
 
+![logo](docs/img/Argo-Flux_logos.png)
+
 Two of the biggest GitOps projects are joining forces. [Argo CD](https://github.com/argoproj/argo-cd) and [Flux CD](https://github.com/fluxcd/flux) have been out there for years, making the lives of operators and organisations easier. Now the teams are building the best possible GitOps solution together. The first step on this journey is the GitOps Engine.
 
 Argo and Flux already have similar sets of functionality, soon they will start sharing code using the GitOps Engine. The GitOps Engine will be responsible for the following functionality:
@@ -31,7 +33,7 @@ The GitOps Engine follows the [CNCF Code of Conduct](https://github.com/cncf/fou
 
 If you are as excited about GitOps and one common engine for it as much as we are, please get in touch. If you want to write code that's great, if you want to share feedback, ideas and use-cases, that's great too.
 
-Find us on the [#gitops channel](https://kubernetes.slack.com/messages/gitops) on Kubernetes Slack (get an [invite here](https://kubernetes.slack.com/)).
+Find us on the [#gitops channel](https://kubernetes.slack.com/messages/gitops) on Kubernetes Slack (get an [invite here][kube-slack]).
 
 ### Meetings
 
@@ -57,6 +59,6 @@ We tried to summarise all relevant information here on Github. There's still ver
 
 We're looking forward to seeing you there! Bring your friends and bring your questions!
 
-[kube-slack]: https://kubernetes.slack.com/
+[kube-slack]: https://slack.k8s.io/
 [gitops-slack]: https://kubernetes.slack.com/messages/gitops
 [tz-convert]: https://www.timeanddate.com/worldclock/fixedtime.html?msg=GitOps+Engine+Slack+AMA&iso=20191125T09&p1=224&ah=1
